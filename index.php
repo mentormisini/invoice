@@ -46,7 +46,7 @@ if (!empty($_POST['email']) && !empty($_POST['pwd'])) {
 			</div>
 		</form>
 		<br>
-		<p><b>Email</b> : admin@phpzag.com<br><b>Password</b> : 12345</p>			
+		<p><b>Your Email</b> : admin@phpzag.com<br><b>Password</b> : 12345</p>			
 	</div>		
 </div>		
 </div>
