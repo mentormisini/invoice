@@ -28,7 +28,7 @@ if (!empty($_POST['email']) && !empty($_POST['pwd'])) {
 		<h2>Build Invoice System with PHP & MySQL</h2>
 	</div>
 	<div class="login-form">		
-		<h4>Invoice User Login:</h4>		
+		<h4>User Login:</h4>		
 		<form method="post" action="">
 			<div class="form-group">
 			<?php if ($loginError ) { ?>
